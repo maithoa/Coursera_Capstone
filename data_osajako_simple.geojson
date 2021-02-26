@@ -4,7 +4,7 @@
   "features": [
     {
       "type": "Feature",
-      "id":1,
+      "id":"1",
       "properties": {
         "gml_id": "Seutukartta_aluejako_helsinki_osaalue.1",
         "tietopalvelu_id": 1,
