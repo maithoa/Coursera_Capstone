@@ -1,0 +1,7197 @@
+{
+  [
+  {
+    "id": 41359,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pajalahden venesatama (Meripuistotie) / Venesatama",
+      "sv": "Smedjevikens småbåtshamn (Meripuistotie) / Båthamn",
+      "en": "Pajalahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Meripuistotie 1a",
+      "sv": "Sjöallén 1a",
+      "en": "Meripuistotie 1a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.88903,
+        60.158215
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 0,
+    "object_type": "unit",
+    "score": 1.7767948
+  },
+  {
+    "id": 39913,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Eläintarhanlahden venesatama",
+      "sv": "Djurgårdsvikens småbåtshamn",
+      "en": "Eläintarhanlahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Eläintarhantie 10",
+      "sv": "Djurgårdsvägen 10",
+      "en": "Eläintarhantie 10"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.941782,
+        60.18
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 1,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 41189,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kipparlahden venesatama",
+      "sv": "Skepparvikens småbåtshamn",
+      "en": "Kipparlahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Kipparlahdenkuja 3",
+      "sv": "Skepparviksgränden 3",
+      "en": "Kipparlahdenkuja 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.023306,
+        60.191067
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 2,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 40864,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Laivalahden venesatama",
+      "sv": "Båtsvikens småbåtshamn",
+      "en": "Laivalahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Simppukarinkatu 2",
+      "sv": "Simpörsgatan 2",
+      "en": "Simppukarinkatu 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.027122,
+        60.186985
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 3,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 41728,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Mesaanikujanlaituri / Venesatama",
+      "sv": "Mesangrändens brygga / Småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Mesaanikuja 11",
+      "sv": "Mesangränden 11",
+      "en": "Mesaanikuja 11"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.070076,
+        60.16623
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 4,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 39350,
+    "contract_type": null,
+    "name": {
+      "fi": "Nokkalan venesatama",
+      "sv": "Nokkalas småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Nokkalanniemi 2",
+      "sv": "Nokkala udd 2",
+      "en": "Nokkalanniemi 2"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.754599,
+        60.14758
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 5,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 40535,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Salmisaaren venesatama",
+      "sv": "Sundholmens småbåtshamn",
+      "en": "Salmisaari boat harbour"
+    },
+    "street_address": {
+      "fi": "Salmisaarenranta",
+      "sv": "Sundholmsstranden",
+      "en": "Salmisaarenranta"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.900003,
+        60.165287
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 6,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 40876,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Siltavuoren venesatama",
+      "sv": "Brobergets småbåtshamn",
+      "en": "Siltavuori boat harbour"
+    },
+    "street_address": {
+      "fi": "Siltavuorenranta",
+      "sv": "Brobergskajen",
+      "en": "Siltavuorenranta"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.955912,
+        60.176636
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 7,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 39514,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Soukan venesatama",
+      "sv": "Sökös småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Soukanlahdentie 15",
+      "sv": "Sököviksvägen 15",
+      "en": "Soukanlahdentie 15"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.649574,
+        60.135586
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 8,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 42276,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Strömsinlahden venesatama",
+      "sv": "Strömsvikens småbåtshamn",
+      "en": "Strömsinlahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Abraham Wetterin tie 26",
+      "sv": "Abraham Wetters väg 26",
+      "en": "Abraham Wetterin tie 26"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.065268,
+        60.19711
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 9,
+    "object_type": "unit",
+    "score": 1.7679698
+  },
+  {
+    "id": 39972,
+    "contract_type": null,
+    "name": {
+      "fi": "Pajalahden venesatama (Meripuistotie) / Venesatama (SMVK)",
+      "sv": "Smedjevikens småbåtshamn (Meripuistotie) / Båthamn (SMVK)"
+    },
+    "street_address": {
+      "fi": "Meripuistotie 1a",
+      "sv": "Sjöallén 1a",
+      "en": "Meripuistotie 1a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.88796,
+        60.158314
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 10,
+    "object_type": "unit",
+    "score": 1.6934818
+  },
+  {
+    "id": 41926,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Hopeasalmen venesatama",
+      "sv": "Silversundets småbåtshamn",
+      "en": "Hopeasalmi boat harbour"
+    },
+    "street_address": {
+      "fi": "Hopeasalmenranta 7",
+      "sv": "Silversundsstranden 7",
+      "en": "Hopeasalmenranta 7"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.995714,
+        60.184483
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 11,
+    "object_type": "unit",
+    "score": 1.6927298
+  },
+  {
+    "id": 39736,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kivenlahden venesatama",
+      "sv": "Stensviks småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Marinsatamantie 5",
+      "sv": "Marishamnsvägen 5",
+      "en": "Marinsatamantie 5"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.623632,
+        60.15592
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 12,
+    "object_type": "unit",
+    "score": 1.6927298
+  },
+  {
+    "id": 39306,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Laajalahden venesatama",
+      "sv": "Bredvikens småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Ruukinrannantie 29",
+      "sv": "Brukstrandsvägen 29",
+      "en": "Ruukinrannantie 29"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.829391,
+        60.203114
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 13,
+    "object_type": "unit",
+    "score": 1.6927298
+  },
+  {
+    "id": 46027,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Svinön venesatama",
+      "sv": "Svinös småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Skatantie 36",
+      "sv": "Skatavägen 36",
+      "en": "Skatantie 36"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.726965,
+        60.134754
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 14,
+    "object_type": "unit",
+    "score": 1.6927298
+  },
+  {
+    "id": 40393,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Airorannan venesatama",
+      "sv": "Årstrands småbåtshamn",
+      "en": "Airoranta boat harbour"
+    },
+    "street_address": {
+      "fi": "Airoranta 2",
+      "sv": "Årstrand 2",
+      "en": "Airoranta 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.066105,
+        60.18808
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 15,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 39839,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Haukilahden venesatama",
+      "sv": "Gäddvikens småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Mellstenintie 6",
+      "sv": "Mellstensvägen 6",
+      "en": "Mellstenintie 6"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.771797,
+        60.155907
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 16,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 40672,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Honkaluodon venesatama",
+      "sv": "Furuskärs småbåtshamn",
+      "en": "Honkaluoto boat harbour"
+    },
+    "street_address": {
+      "fi": "Mustikkamaantie 6",
+      "sv": "Blåbärslandsvägen 6",
+      "en": "Mustikkamaantie 6"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.00117,
+        60.18108
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 17,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 48272,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Katajanokan venesatama",
+      "sv": "Skatuddens småbåtshamn",
+      "en": "Katajanokka boat harbour"
+    },
+    "street_address": {
+      "fi": "Laivastokatu 1c",
+      "sv": "Maringatan 1c",
+      "en": "Laivastokatu 1c"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.965878,
+        60.169144
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 18,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 41050,
+    "contract_type": null,
+    "name": {
+      "fi": "Santahaminan venesatama",
+      "sv": "Sandhamn småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Koulunjohtajantie",
+      "sv": "Skolchefsvägen",
+      "en": "Koulunjohtajantie"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.05194,
+        60.156525
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 19,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 40627,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Saukonpaaden venesatama",
+      "sv": "Utterhällens småbåtshamn",
+      "en": "Saukopaasi boat harbour"
+    },
+    "street_address": {
+      "fi": "Saukonpaadenranta 7",
+      "sv": "Utterhällsstranden 7",
+      "en": "Saukonpaadenranta 7"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.907305,
+        60.159313
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 20,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 41637,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Vuosaarenlahden venesatama",
+      "sv": "Nordsjövikens småbåtshamn",
+      "en": "Vuosaarenlahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Merenkulkijankuja 7",
+      "sv": "Sjöfarargränden 7",
+      "en": "Merenkulkijankuja 7"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.18622,
+        60.210037
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 21,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 42130,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Vähäniityn venesatama",
+      "sv": "Lillängens småbåtshamn",
+      "en": "Vähäniitty boat harbour"
+    },
+    "street_address": {
+      "fi": "Vähäniityntie 3a",
+      "sv": "Lillängsvägen 3a",
+      "en": "Vähäniityntie 3a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.0165,
+        60.183987
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 22,
+    "object_type": "unit",
+    "score": 1.6415026
+  },
+  {
+    "id": 41950,
+    "contract_type": null,
+    "name": {
+      "fi": "Hylje / Venesatama",
+      "sv": "Sälen / Småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Granfeltintie 11",
+      "sv": "Granfeltsvägen 11",
+      "en": "Granfeltintie 11"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.009222,
+        60.179996
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 23,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 40483,
+    "contract_type": null,
+    "name": {
+      "fi": "Hämeenapajan venesatama",
+      "sv": "Tavastvarpets småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Puhuritie 5",
+      "sv": "Ilvägen 5",
+      "en": "Puhuritie 5"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.076675,
+        60.167717
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 24,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 40786,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kaisaniemenrannan venesatama",
+      "sv": "Kajsaniemistrands båthamn"
+    },
+    "street_address": {
+      "fi": "Kaisaniemenranta",
+      "sv": "Kajsaniemistranden",
+      "en": "Kaisaniemenranta"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.946218,
+        60.176235
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 25,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 39950,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Koivuniemen venesatama",
+      "sv": "Björknäsets småbåtshamn",
+      "en": "Koivuniemi boat harbour"
+    },
+    "street_address": {
+      "fi": "Marjaniemenranta 1a",
+      "sv": "Maruddsstrand 1a",
+      "en": "Marjaniemenranta 1a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.097727,
+        60.20078
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 26,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 57159,
+    "contract_type": null,
+    "name": {
+      "fi": "Lonnan venesatama",
+      "sv": "Lonnans Småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Lonna",
+      "sv": "Lonnan",
+      "en": "Lonna"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.989378,
+        60.1539
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 27,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 42225,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Nandelstadhin venesatama",
+      "sv": "Nandelstadhs småbåtshamn",
+      "en": "Nandelstadh boat harbour"
+    },
+    "street_address": {
+      "fi": "Lars Sonckin tie 8a",
+      "sv": "Lars Soncks väg 8a",
+      "en": "Lars Sonckin tie 8a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.015247,
+        60.182655
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 28,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 39323,
+    "contract_type": null,
+    "name": {
+      "fi": "Nuottaniemen venesatama",
+      "sv": "Notuddens småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Nuottatie 19",
+      "sv": "Notvägen 19",
+      "en": "Nuottatie 19"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.737375,
+        60.14364
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 29,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 39518,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Otsolahden venesatama",
+      "sv": "Björnvikens småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Sateenkaari 9",
+      "sv": "Regnbågen 9",
+      "en": "Sateenkaari 9"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.81515,
+        60.173615
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 30,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 40166,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Sarvaston venesatama",
+      "sv": "Fladans småbåtshamn",
+      "en": "Sarvasto boat harbour"
+    },
+    "street_address": {
+      "fi": "Isonsarvastontie 3",
+      "sv": "Storfladavägen 3",
+      "en": "Isonsarvastontie 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.058702,
+        60.167152
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 31,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 39330,
+    "contract_type": null,
+    "name": {
+      "fi": "Sepetlahden venesatama",
+      "sv": "Sepetvikens småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Sepetlahti 3",
+      "sv": "Sepetviken 3",
+      "en": "Sepetlahti 3"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.73615,
+        60.148117
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 32,
+    "object_type": "unit",
+    "score": 1.6062586
+  },
+  {
+    "id": 39302,
+    "contract_type": null,
+    "name": {
+      "fi": "Furuholmin venesatama",
+      "sv": "Furuholms småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Bodöntie 5",
+      "sv": "Bodövägen 5",
+      "en": "Bodöntie 5"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.735401,
+        60.118137
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 33,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 41390,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Hietalahdenallas / Venesatama",
+      "sv": "Sandviksbassängen / Småbåtshamn",
+      "en": "Hietalahdenallas boat harbour"
+    },
+    "street_address": {
+      "fi": "Hietalahdenranta 10",
+      "sv": "Sandvikskajen 10",
+      "en": "Hietalahdenranta 10"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.929077,
+        60.161552
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 34,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 40948,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Merisatamanranta / Venesatama",
+      "sv": "Havshamn / Småbåtshamn",
+      "en": "Merisatamanranta boat harbour"
+    },
+    "street_address": {
+      "fi": "Merisatamanranta 2",
+      "sv": "Havsstranden 2",
+      "en": "Merisatamanranta 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.948097,
+        60.154804
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 35,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 40359,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Mustikkamaan venesatama",
+      "sv": "Blåbärslandets småbåtshamn",
+      "en": "Mustikkamaa boat harbour"
+    },
+    "street_address": {
+      "fi": "Mustikkamaantie 1",
+      "sv": "Blåbärslandsvägen 1",
+      "en": "Mustikkamaantie 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.994574,
+        60.18248
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 36,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 39460,
+    "contract_type": null,
+    "name": {
+      "fi": "Otasatama / Venesatama",
+      "sv": "Otasatama / Småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Otaranta 9",
+      "sv": "Otstranden 9",
+      "en": "Otaranta 9"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.83842,
+        60.18658
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 37,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 40842,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Porslahden venesatama",
+      "sv": "Porslax småbåtshamn",
+      "en": "Porslahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Eteläreimarintie 8",
+      "sv": "Sydremmarvägen 8",
+      "en": "Eteläreimarintie 8"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.177252,
+        60.207714
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 38,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 40897,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Puotilan venesatama",
+      "sv": "Botby gårds småbåtshamn",
+      "en": "Puotila boat harbour"
+    },
+    "street_address": {
+      "fi": "Meripellontie 11",
+      "sv": "Sjöåkervägen 11",
+      "en": "Meripellontie 11"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.104332,
+        60.207024
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 39,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 39698,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Suomenojan venesatama",
+      "sv": "Finnoos småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Hylkeenpyytäjäntie 9",
+      "sv": "Säljägarvägen 9",
+      "en": "Hylkeenpyytäjäntie 9"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.71596,
+        60.145695
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 40,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 41472,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Tammasaarenallas / Venesatama",
+      "sv": "Märaholmsbassängen / Småbåtshamn",
+      "en": "Tammasaarenallas boat harbour"
+    },
+    "street_address": {
+      "fi": "Tammasaarenaukio 4",
+      "sv": "Märaholmsplatsen 4",
+      "en": "Tammasaarenaukio 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.906261,
+        60.160984
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 41,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 41415,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Vasikkasaaren venesatama",
+      "sv": "Kalvholmens småbåtshamn",
+      "en": "Vasikkasaari boat harbour"
+    },
+    "street_address": {
+      "fi": "Vasikkasaari",
+      "sv": "Kalvholmen (Sveaborg)",
+      "en": "Vasikkasaari"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.014528,
+        60.15483
+      ]
+    },
+    "department": {
+      "id": "8bdb8e14-b243-4a1d-b162-ad7b778c3e66",
+      "name": {
+        "fi": "Liikunta",
+        "sv": "Idrott",
+        "en": "Sports"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 42,
+    "object_type": "unit",
+    "score": 1.5866863
+  },
+  {
+    "id": 41040,
+    "contract_type": null,
+    "name": {
+      "fi": "Humallahden venesatama (HVK)",
+      "sv": "Hummelvikens småbåtshamn (HVK)"
+    },
+    "street_address": {
+      "fi": "Rajasaarenpenger 6",
+      "sv": "Råholmsbanken 6",
+      "en": "Rajasaarenpenger 6"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.90887,
+        60.18173
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 43,
+    "object_type": "unit",
+    "score": 1.5407209
+  },
+  {
+    "id": 41266,
+    "contract_type": null,
+    "name": {
+      "fi": "Strömsinlahden venesatama (RVK Ry)",
+      "sv": "Strömsvikens småbåtshamn (RVK Rf)"
+    },
+    "street_address": {
+      "fi": "Abraham Wetterin tie 26",
+      "sv": "Abraham Wetters väg 26",
+      "en": "Abraham Wetterin tie 26"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.06527,
+        60.197388
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 44,
+    "object_type": "unit",
+    "score": 1.5407209
+  },
+  {
+    "id": 60002,
+    "contract_type": null,
+    "name": {
+      "fi": "Suomenlinnan venesatama (SLVK)"
+    },
+    "street_address": {
+      "fi": "Suomenlinna C 57",
+      "sv": "Sveaborg C 57",
+      "en": "Suomenlinna C 57"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.991001,
+        60.147686
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 45,
+    "object_type": "unit",
+    "score": 1.5407209
+  },
+  {
+    "id": 40554,
+    "contract_type": null,
+    "name": {
+      "fi": "Yliskylän venesatama (YVK Ry)",
+      "sv": "Uppby småbåtshamn (YVK Rf)"
+    },
+    "street_address": {
+      "fi": "Tuurholmanpolku 3",
+      "sv": "Turholmsstigen 3",
+      "en": "Tuurholmanpolku 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.046917,
+        60.181988
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 46,
+    "object_type": "unit",
+    "score": 1.5407209
+  },
+  {
+    "id": 40548,
+    "contract_type": null,
+    "name": {
+      "fi": "Airorannan venesatama (TMVK)",
+      "sv": "Årstrands småbåtshamn (TMVK)"
+    },
+    "street_address": {
+      "fi": "Airoranta 2",
+      "sv": "Årstrand 2",
+      "en": "Airoranta 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.066687,
+        60.188007
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 47,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 41123,
+    "contract_type": null,
+    "name": {
+      "fi": "Katajanokan venesatama (KNV Ry)",
+      "sv": "Skatuddens småbåtshamn (KNV Rf)"
+    },
+    "street_address": {
+      "fi": "Laivastokatu 3",
+      "sv": "Maringatan 3",
+      "en": "Laivastokatu 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.965757,
+        60.169636
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 48,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 41510,
+    "contract_type": null,
+    "name": {
+      "fi": "Kipparilahden venesatama (KVK Ry)",
+      "sv": "Skepparvikens småbåtshamn (KVK Rf)"
+    },
+    "street_address": {
+      "fi": "Kipparlahdenkuja 3",
+      "sv": "Skepparviksgränden 3",
+      "en": "Kipparlahdenkuja 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.021486,
+        60.19045
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 49,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 54378,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kivenlahden venesatama / Saaristovenelaituri",
+      "sv": "Stensvik småbåtshamn / Skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Marinsatamantie 5",
+      "sv": "Marishamnsvägen 5",
+      "en": "Marinsatamantie 5"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.62138,
+        60.15665
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 50,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 45074,
+    "contract_type": null,
+    "name": {
+      "fi": "Koivusaaren venesatama (NJK)",
+      "sv": "Björkholmens småbåtshamn (NJK)"
+    },
+    "street_address": {
+      "fi": "Vaskisalmenkuja 9",
+      "sv": "Kopparsundsgränden 9",
+      "en": "Vaskisalmenkuja 9"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.847858,
+        60.163067
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 51,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 41546,
+    "contract_type": null,
+    "name": {
+      "fi": "Lemislahden venesatama (LV Ry)",
+      "sv": "Lemisvikens småbåtshamn (LV Rf)"
+    },
+    "street_address": {
+      "fi": "Lahnalahdentie 3",
+      "sv": "Braxviksvägen 3",
+      "en": "Lahnalahdentie 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.86923,
+        60.1637
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 52,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 41337,
+    "contract_type": null,
+    "name": {
+      "fi": "Leppäniemen venesatama (VRVK Ry)",
+      "sv": "Alnäsets småbåthamn /VRVK Rf)"
+    },
+    "street_address": {
+      "fi": "Varjakanvalkama 21",
+      "sv": "Väringshamnen 21",
+      "en": "Varjakanvalkama 21"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.117674,
+        60.21448
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 53,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 40858,
+    "contract_type": null,
+    "name": {
+      "fi": "Merisatamanranta 8 / Venesatama (MSVK)",
+      "sv": "Havsstranden 8 / Småbåtshamn (MSVK)"
+    },
+    "street_address": {
+      "fi": "Merisatamanranta 8",
+      "sv": "Havsstranden 8",
+      "en": "Merisatamanranta 8"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.944565,
+        60.15423
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 54,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 41015,
+    "contract_type": null,
+    "name": {
+      "fi": "Pohjoisrannan venesatama (SMK/FMK)",
+      "sv": "Norrakajens småbåtshamn (SMK/FMK)"
+    },
+    "street_address": {
+      "fi": "Pohjoisranta 21",
+      "sv": "Norra kajen 21",
+      "en": "Pohjoisranta 21"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.962132,
+        60.175186
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 55,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 40788,
+    "contract_type": null,
+    "name": {
+      "fi": "Pyysaari / Venesatama (HTPS)",
+      "sv": "Järpholmen / Småbåtshamn (HTPS)"
+    },
+    "street_address": {
+      "fi": "Henrik Borgströmin polku 3",
+      "sv": "Henrik Borgströms stig 3",
+      "en": "Henrik Borgströmin polku 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.024391,
+        60.17992
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 56,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 40827,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ruoholahden venesatama (Jaalaranta)",
+      "sv": "Gräsvikens småbåtshamn (Skutstranden)",
+      "en": "Ruoholahti boat harbour (Jaalaranta)"
+    },
+    "street_address": {
+      "fi": "Jaalaranta 7a",
+      "sv": "Skutstranden 7a",
+      "en": "Jaalaranta 7a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.91271,
+        60.161034
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 57,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 40310,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ruoholahden venesatama (Kellosaarenranta)",
+      "sv": "Gräsvikens båthamn (Skällarstranden)",
+      "en": "Ruoholahti boat harbour (Kellosaarenranta)"
+    },
+    "street_address": {
+      "fi": "Kellosaarenranta 4",
+      "sv": "Skällarstranden 4",
+      "en": "Kellosaarenranta 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.912563,
+        60.161633
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 58,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 60003,
+    "contract_type": null,
+    "name": {
+      "fi": "Suomenlinnan pursiseura / Venesatama (SuPs)"
+    },
+    "street_address": {
+      "fi": "Iso Mustasaari, Varvilahti",
+      "sv": "Stora Östersvartö, Varvilahti",
+      "en": "Iso Mustasaari, Varvilahti"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.982239,
+        60.14719
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 59,
+    "object_type": "unit",
+    "score": 1.4764782
+  },
+  {
+    "id": 40706,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Marunakujan venesatama (HNVK Ry)",
+      "sv": "Malörtsgrändens småbåtshamn (HNVK Ry)"
+    },
+    "street_address": {
+      "fi": "Marunakuja 4a",
+      "sv": "Malörtsgränden 4a",
+      "en": "Marunakuja 4a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.062721,
+        60.183395
+      ]
+    },
+    "department": {
+      "id": "8bdb8e14-b243-4a1d-b162-ad7b778c3e66",
+      "name": {
+        "fi": "Liikunta",
+        "sv": "Idrott",
+        "en": "Sports"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 60,
+    "object_type": "unit",
+    "score": 1.4697236
+  },
+  {
+    "id": 40800,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Aurinkolahden venesatama (Pursilahdenranta)",
+      "sv": "Solvikens småbåtshamn (Slupviksstranden)",
+      "en": "Aurinkolahti boat harbour (Pursilahdenranta)"
+    },
+    "street_address": {
+      "fi": "Pursilahdenranta",
+      "sv": "Slupviksstranden",
+      "en": "Pursilahdenranta"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.148188,
+        60.20053
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 61,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 54375,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Haukilahden venesatama / Saaristovenelaituri",
+      "sv": "Gäddviken småbåtshamn / Skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Mellstenintie 6",
+      "sv": "Mellstensvägen 6",
+      "en": "Mellstenintie 6"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.77094,
+        60.155518
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 62,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 42250,
+    "contract_type": null,
+    "name": {
+      "fi": "Hevossalmen venesatama (Rantaosuuskunta Kråkudden)",
+      "sv": "Hästnässunds småbåtshamn (Rantaosuuskunta Kråkudden)"
+    },
+    "street_address": {
+      "fi": "Laajasalontie 86",
+      "sv": "Degerövägen 86",
+      "en": "Laajasalontie 86"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.049536,
+        60.160038
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 63,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 40487,
+    "contract_type": null,
+    "name": {
+      "fi": "Mustalahden venesatama (VUK)",
+      "sv": "Svartvikens båthamn (VUK)"
+    },
+    "street_address": {
+      "fi": "Uutelantie 1",
+      "sv": "Nybondasvägen 1",
+      "en": "Uutelantie 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.163006,
+        60.201733
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 64,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 40590,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pikku Kallahden venesatama",
+      "sv": "Lilla Kallviks småbåtshamn",
+      "en": "Pikku Kallahti boat harbour"
+    },
+    "street_address": {
+      "fi": "Kalkkihiekantori 4",
+      "sv": "Kalksandstorget 4",
+      "en": "Kalkkihiekantori 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.141315,
+        60.19891
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 65,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 41428,
+    "contract_type": null,
+    "name": {
+      "fi": "Porslahden venesatama (PLVK)",
+      "sv": "Porslax småbåtshamn (PLVK)"
+    },
+    "street_address": {
+      "fi": "Laiturikuja 2",
+      "sv": "Kajgränden 2",
+      "en": "Laiturikuja 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.17824,
+        60.208122
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 66,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 45141,
+    "contract_type": null,
+    "name": {
+      "fi": "Stansvikin kartano / Venesatama (JYTY)",
+      "sv": "Stansvik gård / Småbåtshamn (JYTY)"
+    },
+    "street_address": {
+      "fi": "Stansvikintie",
+      "sv": "Stansviksvägen",
+      "en": "Stansvikintie"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.031939,
+        60.163494
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 67,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 42255,
+    "contract_type": null,
+    "name": {
+      "fi": "Strömsinlahden venesatama (RTM Ry)",
+      "sv": "Strömsvikens småbåtshamn (RTM Rf)"
+    },
+    "street_address": {
+      "fi": "Abraham Wetterin tie 26",
+      "sv": "Abraham Wetters väg 26",
+      "en": "Abraham Wetterin tie 26"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.065212,
+        60.196526
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 68,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 41733,
+    "contract_type": null,
+    "name": {
+      "fi": "Taivallahden venesatama (TVK Ry)",
+      "sv": "Edesvikens småbåtshamn (TVK Rf)"
+    },
+    "street_address": {
+      "fi": "Merikannontie 2",
+      "sv": "Merikantovägen 2",
+      "en": "Merikannontie 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.91387,
+        60.176563
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 69,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 42298,
+    "contract_type": null,
+    "name": {
+      "fi": "Vattunokka / Venesatama (HSK)",
+      "sv": "Hallonnäsudden / Småbåtshamn (HSK)"
+    },
+    "street_address": {
+      "fi": "Vattuniemen puistotie 1",
+      "sv": "Hallonnäs parkväg 1",
+      "en": "Vattuniemen puistotie 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.891827,
+        60.151417
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 70,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 39954,
+    "contract_type": null,
+    "name": {
+      "fi": "Vuosaarenlahden venesatama (Suomenlahden uistelijat)",
+      "sv": "Nordsjövikens småbåtshamn (Suomenlahden uistelijat)"
+    },
+    "street_address": {
+      "fi": "Merenkulkijankuja 7",
+      "sv": "Sjöfarargränden 7",
+      "en": "Merenkulkijankuja 7"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.18853,
+        60.209057
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 71,
+    "object_type": "unit",
+    "score": 1.4321046
+  },
+  {
+    "id": 40232,
+    "contract_type": null,
+    "name": {
+      "fi": "Merihaan venesatama (Hakaniemenranta 15) (MVS)",
+      "sv": "Havshagens småbåtshamn (Hagnäskajen 15) (MVS)"
+    },
+    "street_address": {
+      "fi": "Hakaniemenranta 15",
+      "sv": "Hagnäskajen 15",
+      "en": "Hakaniemenranta 15"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.960651,
+        60.178135
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 72,
+    "object_type": "unit",
+    "score": 1.4270966
+  },
+  {
+    "id": 42113,
+    "contract_type": null,
+    "name": {
+      "fi": "Pohjoisranta (Tervasaarenkannas 1) / Venesatama (HMVK)",
+      "sv": "Norra kajen (Tjärhölmsnäset 1) / Småbåtshamn (HMVK)"
+    },
+    "street_address": {
+      "fi": "Tervasaarenkannas 1",
+      "sv": "Tjärholmsnäset 1",
+      "en": "Tervasaarenkannas 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.962774,
+        60.174126
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 73,
+    "object_type": "unit",
+    "score": 1.4270966
+  },
+  {
+    "id": 41386,
+    "contract_type": null,
+    "name": {
+      "fi": "Reposalmen venesatama (Reposalmen Venekerho Ry)",
+      "sv": "Rävsundets småbåtshamn (Reposalmen Venekerho Rf)"
+    },
+    "street_address": {
+      "fi": "Ilomäenpolku 6",
+      "sv": "Ilomäkistigen 6",
+      "en": "Ilomäenpolku 6"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.064676,
+        60.1802
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 74,
+    "object_type": "unit",
+    "score": 1.4270966
+  },
+  {
+    "id": 41089,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Merihaan venesatama (Merihaka F)",
+      "sv": "Havshagens småbåtshamn (Havshagen F)",
+      "en": "Merihaka boat harbour (Merihaka F)"
+    },
+    "street_address": {
+      "fi": "Hakaniemenranta 30",
+      "sv": "Hagnäskajen 30",
+      "en": "Hakaniemenranta 30"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.962366,
+        60.180714
+      ]
+    },
+    "department": {
+      "id": "8bdb8e14-b243-4a1d-b162-ad7b778c3e66",
+      "name": {
+        "fi": "Liikunta",
+        "sv": "Idrott",
+        "en": "Sports"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 75,
+    "object_type": "unit",
+    "score": 1.4080788
+  },
+  {
+    "id": 41669,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Eläintarhanlahden venesatama (Pitkänsillanranta)",
+      "sv": "Djurgårdsvikens småbåtshamn (Långbrokajen)",
+      "en": "Eläintarhanlahti boat harbour (Pitkänsillanranta)"
+    },
+    "street_address": {
+      "fi": "Pitkänsillanranta",
+      "sv": "Långbrokajen",
+      "en": "Pitkänsillanranta"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.946924,
+        60.177357
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 76,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 40560,
+    "contract_type": null,
+    "name": {
+      "fi": "Kuorekarin venesatama (HMV)",
+      "sv": "Norsörens småbåthamn (HMV)"
+    },
+    "street_address": {
+      "fi": "Soutajankuja 2",
+      "sv": "Roddargränden 2",
+      "en": "Soutajankuja 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.991913,
+        60.186474
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 77,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 60001,
+    "contract_type": null,
+    "name": {
+      "fi": "Laivalahden venesatama (Compass ry)"
+    },
+    "street_address": {
+      "fi": "Simppukarinkatu 3",
+      "sv": "Simpörsgatan 3",
+      "en": "Simppukarinkatu 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.025827,
+        60.18663
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 78,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 40135,
+    "contract_type": null,
+    "name": {
+      "fi": "Marjaniemen venesatama (MVK)",
+      "sv": "Marudds småbåtshamn (MVK)"
+    },
+    "street_address": {
+      "fi": "Marjaniemenranta 44",
+      "sv": "Maruddsstrand 44",
+      "en": "Marjaniemenranta 44"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.080393,
+        60.20009
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 79,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 40971,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Merisatama (Ehrenströmintie) / Venesatama",
+      "sv": "Havshamnen (Ehrenströmsvägen) / Småbåtshamn",
+      "en": "Meristama boat harbour (Ehrenströmintie)"
+    },
+    "street_address": {
+      "fi": "Ehrenströmintie 1a",
+      "sv": "Ehrenströmsvägen 1a",
+      "en": "Ehrenströmintie 1a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.952457,
+        60.154793
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 80,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 45995,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Merisatamanranta 8 / Venesatama",
+      "sv": "Havshamn 8 / Småbåtshamn",
+      "en": "Meristamanranta 8 boat harbour"
+    },
+    "street_address": {
+      "fi": "Merisatamanranta 6",
+      "sv": "Havsstranden 6",
+      "en": "Merisatamanranta 6"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.944992,
+        60.154316
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 81,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 41157,
+    "contract_type": null,
+    "name": {
+      "fi": "Pikku Kallahden venesatama (VVK)",
+      "sv": "Lilla Kallviks småbåtshamn (VVK)"
+    },
+    "street_address": {
+      "fi": "Kalkkihiekantori 5",
+      "sv": "Kalksandstorget 5",
+      "en": "Kalkkihiekantori 5"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.137627,
+        60.200016
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 82,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 40279,
+    "contract_type": null,
+    "name": {
+      "fi": "Puuskaniemen venesatama (Marinetek)",
+      "sv": "Knysnäs småbåthamn (Marinetek)"
+    },
+    "street_address": {
+      "fi": "Puuskarinne",
+      "sv": "Knysbrinken",
+      "en": "Puuskarinne"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.08358,
+        60.17233
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 83,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 41936,
+    "contract_type": null,
+    "name": {
+      "fi": "Tahvonlahden venesatama (TLVK Ry)",
+      "sv": "Stansvikens småbåtshamn (TLVK Rf)"
+    },
+    "street_address": {
+      "fi": "Vuorilahdenpolku",
+      "sv": "Bergviksstigen",
+      "en": "Vuorilahdenpolku"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.034382,
+        60.166336
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 84,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 41234,
+    "contract_type": null,
+    "name": {
+      "fi": "Vaskilahden venesatama (Vavk)",
+      "sv": "Kopparvikens småbåtshamn (Vavk)"
+    },
+    "street_address": {
+      "fi": "Vaskiniementie 14",
+      "sv": "Kopparuddsvägen 14",
+      "en": "Vaskiniementie 14"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.853895,
+        60.16198
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 85,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 40490,
+    "contract_type": null,
+    "name": {
+      "fi": "Vuosaarenlahden venesatama (LLVK)",
+      "sv": "Nordsjövikens småbåtshamn (LLVK)"
+    },
+    "street_address": {
+      "fi": "Mrenkulkijankuja 7",
+      "sv": "Mrenkulkijankuja 7",
+      "en": "Mrenkulkijankuja 7"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.18804,
+        60.208115
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 86,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 50393,
+    "contract_type": null,
+    "name": {
+      "fi": "Westend Sailorsin venesatama",
+      "sv": "Westend Sailors småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Lyökkikuja 5",
+      "sv": "Lökgränden 5",
+      "en": "Lyökkikuja 5"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.807293,
+        60.162178
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 87,
+    "object_type": "unit",
+    "score": 1.4049337
+  },
+  {
+    "id": 41636,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Aurinkolahden venesatama (Aurinkoranta)",
+      "sv": "Solvikens småbåtshamn (Solstranden)",
+      "en": "Aurinkolahti boat harbour (Aurinkoranta)"
+    },
+    "street_address": {
+      "fi": "Aurinkoranta",
+      "sv": "Solstranden",
+      "en": "Aurinkoranta"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.147854,
+        60.200363
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 88,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 40979,
+    "contract_type": null,
+    "name": {
+      "fi": "Koivusaari / Venesatama (KoPu)",
+      "sv": "Björkholmen / Småbåtshamn (KoPu)"
+    },
+    "street_address": {
+      "fi": "Vaskisalmenkuja 8",
+      "sv": "Kopparsundsgränden 8",
+      "en": "Vaskisalmenkuja 8"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.85025,
+        60.162613
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 89,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 41066,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Meri-Rastilan venesatama",
+      "sv": "Havsrastböle småbåtshamn",
+      "en": "Meri-Rastila boat harbour"
+    },
+    "street_address": {
+      "fi": "Märssykuja",
+      "sv": "Märsgränden",
+      "en": "Märssykuja"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.113478,
+        60.20613
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 90,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 41600,
+    "contract_type": null,
+    "name": {
+      "fi": "Pohjoisranta (Halkolaituri) / Venesatama (HPLS)",
+      "sv": "Norra kajen (Halkolaituri) / Småbåtshamn (HPLS)"
+    },
+    "street_address": {
+      "fi": "Pohjoisranta 5",
+      "sv": "Norra kajen 5",
+      "en": "Pohjoisranta 5"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.962006,
+        60.171707
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 91,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 40289,
+    "contract_type": null,
+    "name": {
+      "fi": "Raitalahdenlaituri / Venesatama (RVK Ry)",
+      "sv": "Pilvikens brygga / Småbåtshamn (RVK Rf)"
+    },
+    "street_address": {
+      "fi": "Wäinö Aaltosen tie 4a",
+      "sv": "Wäinö Aaltonens väg 4a",
+      "en": "Wäinö Aaltosen tie 4a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.997324,
+        60.187634
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 92,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 41078,
+    "contract_type": null,
+    "name": {
+      "fi": "Sirpalesaari / Venesatama (SPS Ry)",
+      "sv": "Flisholmen / Småbåthamn (SPS Rf)"
+    },
+    "street_address": {
+      "fi": "Sirpalesaari",
+      "sv": "Flisholmen",
+      "en": "Sirpalesaari"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.943794,
+        60.152737
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 93,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 40335,
+    "contract_type": null,
+    "name": {
+      "fi": "Särkkä / Venesatama (Merenkävijät Ry)",
+      "sv": "Långören / Småbåtshamn (Merenkävijät Rf)"
+    },
+    "street_address": {
+      "fi": "Särkkä",
+      "sv": "Långören",
+      "en": "Särkkä"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.965504,
+        60.150707
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 94,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 46061,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Vartiokylänlahden venesatama / Vesiliikennelaituri",
+      "sv": "Botbyvikens småbåtshamn / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Meripellontie 11",
+      "sv": "Sjöåkervägen 11",
+      "en": "Meripellontie 11"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.098595,
+        60.206375
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 95,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 46066,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Vuosaarenlahden venesatama / Vesiliikennelaituri",
+      "sv": "Nordsjövikens småbåtshamn / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Eteläreimarintie 8",
+      "sv": "Sydremmarvägen 8",
+      "en": "Eteläreimarintie 8"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.17785,
+        60.20766
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 96,
+    "object_type": "unit",
+    "score": 1.3863863
+  },
+  {
+    "id": 41957,
+    "contract_type": null,
+    "name": {
+      "fi": "Naurissalmen venesatama (Kipparlahdensilmukka 11) (KVK)",
+      "sv": "Rovholmssundetss småbåtshamn (Kipparlahdensilmukka 11) (KVK)"
+    },
+    "street_address": {
+      "fi": "Kipparlahden silmukka 11",
+      "sv": "Kipparlahden silmukka 11",
+      "en": "Kipparlahden silmukka 11"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.012938,
+        60.192513
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 97,
+    "object_type": "unit",
+    "score": 1.3683523
+  },
+  {
+    "id": 41180,
+    "contract_type": null,
+    "name": {
+      "fi": "Puotilan venesatama (Puotilan venekerho Ry)",
+      "sv": "Botby gårds småbåtshamn (Botbygårds bot"
+    },
+    "street_address": {
+      "fi": "Meripellontie 11",
+      "sv": "Sjöåkervägen 11",
+      "en": "Meripellontie 11"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.101406,
+        60.20674
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 98,
+    "object_type": "unit",
+    "score": 1.3683523
+  },
+  {
+    "id": 41454,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Merihaan venesatama (Hakaniemenranta 13)",
+      "sv": "Havshagens småbåtshamn (Hakaniemenranta 13)",
+      "en": "Merihaka boat harbour (Hakaniemenranta 13)"
+    },
+    "street_address": {
+      "fi": "Hakaniemenranta 13",
+      "sv": "Hagnäskajen 13",
+      "en": "Hakaniemenranta 13"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.959497,
+        60.178127
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 99,
+    "object_type": "unit",
+    "score": 1.3659129
+  },
+  {
+    "id": 57191,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pohjoisranta 3 (1-16) / venesatama",
+      "sv": "Norra kajen 3 (1-16) / Småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Pohjoisrantatie 3",
+      "sv": "Pohjoisrantatie 3",
+      "en": "Pohjoisrantatie 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.960165,
+        60.170277
+      ]
+    },
+    "department": {
+      "id": "8bdb8e14-b243-4a1d-b162-ad7b778c3e66",
+      "name": {
+        "fi": "Liikunta",
+        "sv": "Idrott",
+        "en": "Sports"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 100,
+    "object_type": "unit",
+    "score": 1.3659129
+  },
+  {
+    "id": 40712,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Naurissalmen venesatama (Kipparlahdensilmukka 9)",
+      "sv": "Rovholmssundets småbåtshamn (Kipparlahdensilmukka 9)",
+      "en": "Naurissalmi boat harbour (Kipparlahdensilmukka 9)"
+    },
+    "street_address": {
+      "fi": "Kipparlahdensilmukka 9",
+      "sv": "Kipparlahdensilmukka 9",
+      "en": "Kipparlahdensilmukka 9"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.015923,
+        60.191486
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 101,
+    "object_type": "unit",
+    "score": 1.3381257
+  },
+  {
+    "id": 41436,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pohjoisranta (Pohjoisranta 23-25) / Venesatama",
+      "sv": "Norra kajen (Norra kajen 23-25) / Småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Pohjoisranta 23-25",
+      "sv": "Norra kajen 23-25",
+      "en": "Pohjoisranta 23-25"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.961641,
+        60.17614
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 102,
+    "object_type": "unit",
+    "score": 1.3381257
+  },
+  {
+    "id": 42136,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Tervasaari (Tervasaarenkannas 1) / Venesatama",
+      "sv": "Tjärholmen (Tjärholmnäset 1) / Småbåtshamn",
+      "en": "Tervasaari boat harbour (Tervasaarenkannas 1)"
+    },
+    "street_address": {
+      "fi": "Tervasaarenkannas 1",
+      "sv": "Tjärholmsnäset 1",
+      "en": "Tervasaarenkannas 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.965073,
+        60.173992
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 103,
+    "object_type": "unit",
+    "score": 1.3381257
+  },
+  {
+    "id": 41187,
+    "contract_type": null,
+    "name": {
+      "fi": "Hepokalliontien venesatama (Pursiseura Merihepo Ry)",
+      "sv": "Hästbergsvägens småbåtshamn (Pursiseura Merihepo Rf)"
+    },
+    "street_address": {
+      "fi": "Hepokalliontie 28",
+      "sv": "Hästbergsvägen 28",
+      "en": "Hepokalliontie 28"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.075274,
+        60.17104
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 104,
+    "object_type": "unit",
+    "score": 1.3274057
+  },
+  {
+    "id": 39997,
+    "contract_type": null,
+    "name": {
+      "fi": "Pohjoisranta (Siltavuorenranta 1) / Venesatama (HLVK)",
+      "sv": "Norra kajen (Brobergskajen 1) / Småbåtshamn (HLVK)"
+    },
+    "street_address": {
+      "fi": "Siltavuorenranta 1",
+      "sv": "Brobergskajen 1",
+      "en": "Siltavuorenranta 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.958065,
+        60.176823
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 105,
+    "object_type": "unit",
+    "score": 1.3274057
+  },
+  {
+    "id": 40045,
+    "contract_type": null,
+    "name": {
+      "fi": "Sarvaston venesatama (Sarvaston venekerho Ry)",
+      "sv": "Fladans småbåtshamn (Sarvaston venekerho Ry)"
+    },
+    "street_address": {
+      "fi": "Isonsarvastontie 1",
+      "sv": "Storfladavägen 1",
+      "en": "Isonsarvastontie 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.057762,
+        60.166275
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 106,
+    "object_type": "unit",
+    "score": 1.3274057
+  },
+  {
+    "id": 60000,
+    "contract_type": null,
+    "name": {
+      "fi": "Strömsinlahden venesatama (Strömsinlahden veneilijät ry)"
+    },
+    "street_address": {
+      "fi": "Solvikinkuja 4 C 9",
+      "sv": "Solviksgränden 4 C 9",
+      "en": "Solvikinkuja 4 C 9"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.06527,
+        60.197685
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 107,
+    "object_type": "unit",
+    "score": 1.3274057
+  },
+  {
+    "id": 41150,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pohjoisranta 3 (17-59) / Venesatama",
+      "sv": "Norra kajen 3 (17-59) / Småbåtshamn",
+      "en": "Pohjoisranta 3 boat harbour"
+    },
+    "street_address": {
+      "fi": "Pohjoisranta 3",
+      "sv": "Norra kajen 3",
+      "en": "Pohjoisranta 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.96117,
+        60.172394
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 108,
+    "object_type": "unit",
+    "score": 1.3213898
+  },
+  {
+    "id": 41939,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Puotilan venesatama (Niittyranta) / Talvisäilytysalue",
+      "sv": "Botby gårds småbåtshamn (Ängsmaren) / Vinterförvaringområdet"
+    },
+    "street_address": {
+      "fi": "Niittyranta 21b",
+      "sv": "Ängsmaren 21b",
+      "en": "Niittyranta 21b"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.09794,
+        60.204895
+      ]
+    },
+    "department": {
+      "id": "dd39bbc8-1563-470c-b6d6-008f2c038ea0",
+      "name": {
+        "fi": "Itäinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 109,
+    "object_type": "unit",
+    "score": 1.3213898
+  },
+  {
+    "id": 40203,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ruoholahden venesatama (Ruoholahden kanava)",
+      "sv": "Gräsvikens småbåtshamn (Gräsvikskanalen)",
+      "en": "Ruoholahti boat harbour (Ruoholahden kanava)"
+    },
+    "street_address": {
+      "fi": "Ruoholahdenkanava",
+      "sv": "Gräsvikskanalen",
+      "en": "Ruoholahdenkanava"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.915993,
+        60.161858
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 110,
+    "object_type": "unit",
+    "score": 1.3213898
+  },
+  {
+    "id": 41857,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Saunalahden venesatama (Ramsaynranta 2)",
+      "sv": "Bastuvikens småbåtshamn (Ramsays strand 2)",
+      "en": "Saunalahti boat harbour (Ramsaynranta 2)"
+    },
+    "street_address": {
+      "fi": "Ramsaynranta 2",
+      "sv": "Ramsays strand 2",
+      "en": "Ramsaynranta 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.882168,
+        60.192318
+      ]
+    },
+    "department": {
+      "id": "8bdb8e14-b243-4a1d-b162-ad7b778c3e66",
+      "name": {
+        "fi": "Liikunta",
+        "sv": "Idrott",
+        "en": "Sports"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 111,
+    "object_type": "unit",
+    "score": 1.3213898
+  },
+  {
+    "id": 50357,
+    "contract_type": null,
+    "name": {
+      "fi": "Laurinlahden venesatama / Tenniskenttä",
+      "sv": "Larsvik småbåtshamn / Tennisplan"
+    },
+    "street_address": {
+      "fi": "Ristiniementie 1",
+      "sv": "Korsnäsvägen 1",
+      "en": "Ristiniementie 1"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.640936,
+        60.144047
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 112,
+    "object_type": "unit",
+    "score": 1.3162082
+  },
+  {
+    "id": 50160,
+    "contract_type": null,
+    "name": {
+      "fi": "Eläintarhanlahden venesatama / Hakaniemen venekerho ry",
+      "sv": "Djurgårdsvikens småbåthamn"
+    },
+    "street_address": {
+      "fi": "Eläintarhantie 10",
+      "sv": "Djurgårdsvägen 10",
+      "en": "Eläintarhantie 10"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.94094,
+        60.179916
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 113,
+    "object_type": "unit",
+    "score": 1.3042712
+  },
+  {
+    "id": 41727,
+    "contract_type": null,
+    "name": {
+      "fi": "Lokitien venesatama (Rastilan Veneilijät Ry)",
+      "sv": "Loggvägens småbåtshamn (Rastilan Veneilijät Rf)"
+    },
+    "street_address": {
+      "fi": "Lokitie",
+      "sv": "Loggvägen",
+      "en": "Lokitie"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.12042,
+        60.21284
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 114,
+    "object_type": "unit",
+    "score": 1.3042712
+  },
+  {
+    "id": 57180,
+    "contract_type": null,
+    "name": {
+      "fi": "Ramsaynrannan venesatama (Munkan venekerho Ry)",
+      "sv": "Ramsays strands småbåtshamn (Munkan veneherho Ry)"
+    },
+    "street_address": {
+      "fi": "Ramsaynranta 2",
+      "sv": "Ramsays strand 2",
+      "en": "Ramsaynranta 2"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.881374,
+        60.192036
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 115,
+    "object_type": "unit",
+    "score": 1.3042712
+  },
+  {
+    "id": 40868,
+    "contract_type": null,
+    "name": {
+      "fi": "Seurasaarentien venesatama (Meilahden veneilijät Ry)",
+      "sv": "Fölisövägen båthamn (Meilahden veneilijät Ry)"
+    },
+    "street_address": {
+      "fi": "Seurasaarentie 2a",
+      "sv": "Fölisövägen 2a",
+      "en": "Seurasaarentie 2a"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.900743,
+        60.186165
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 116,
+    "object_type": "unit",
+    "score": 1.3042712
+  },
+  {
+    "id": 40687,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ramsaynrannan venesatama (B) (Ramsaynranta 6)",
+      "sv": "Ramsays strands småbåtshamn (B) (Ramsays strand 6)"
+    },
+    "street_address": {
+      "fi": "Ramsaynranta 6",
+      "sv": "Ramsays strand 6",
+      "en": "Ramsaynranta 6"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.885302,
+        60.194622
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 117,
+    "object_type": "unit",
+    "score": 1.2999529
+  },
+  {
+    "id": 41965,
+    "contract_type": null,
+    "name": {
+      "fi": "Koivuniemen venesatama (Marjaniemen melojat Ry)",
+      "sv": "Björknäsets småbåtshamn (Marjaniemen melojat Rf)"
+    },
+    "street_address": {
+      "fi": "Marjaniemenranta 1",
+      "sv": "Maruddsstrand 1",
+      "en": "Marjaniemenranta 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.097511,
+        60.201073
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 118,
+    "object_type": "unit",
+    "score": 1.2862364
+  },
+  {
+    "id": 45075,
+    "contract_type": null,
+    "name": {
+      "fi": "Koivuniemen venesatama (Marjaniemien purjehtijat Ry)",
+      "sv": "Björknäsets småbåtshamn (Marudd seglare Rf)"
+    },
+    "street_address": {
+      "fi": "Marjaniemenranta 1 A",
+      "sv": "Maruddsstrand 1 A",
+      "en": "Marjaniemenranta 1 A"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.097048,
+        60.200985
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 119,
+    "object_type": "unit",
+    "score": 1.2862364
+  },
+  {
+    "id": 39799,
+    "contract_type": null,
+    "name": {
+      "fi": "Laurinlahden venesatama (Laurinlahden venekerho Ry)",
+      "sv": "Larsviks småbåtshamn (Laurinlahden venekerho Rf)"
+    },
+    "street_address": {
+      "fi": "Ristiniementie 1",
+      "sv": "Korsnäsvägen 1",
+      "en": "Ristiniementie 1"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.640186,
+        60.14269
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 120,
+    "object_type": "unit",
+    "score": 1.2862364
+  },
+  {
+    "id": 59999,
+    "contract_type": null,
+    "name": {
+      "fi": "Pajalahden venesatama (Vattuniemenranta, Sindbad ry)"
+    },
+    "street_address": {
+      "fi": "Vattuniemenranta 5",
+      "sv": "Hallonnässtranden 5",
+      "en": "Vattuniemenranta 5"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.886766,
+        60.155285
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 121,
+    "object_type": "unit",
+    "score": 1.2862364
+  },
+  {
+    "id": 41422,
+    "contract_type": null,
+    "name": {
+      "fi": "Pikku Huopalahden venesatama (PHVK ry)",
+      "sv": "Lilla Hoplaxvikens småbåtshamn (PHVK Rf)"
+    },
+    "street_address": {
+      "fi": "Tilkantori 9",
+      "sv": "Tilktorget 9",
+      "en": "Tilkantori 9"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.892323,
+        60.2019
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 122,
+    "object_type": "unit",
+    "score": 1.2862364
+  },
+  {
+    "id": 41718,
+    "contract_type": null,
+    "name": {
+      "fi": "Vuosaarenlahden venesatama (Vuosaaren purjehtijat Ry)",
+      "sv": "Nordsjövikens småbåtshamn (Vuosareen purjeihtijat Rf)"
+    },
+    "street_address": {
+      "fi": "Merenkulkijankatu 7",
+      "sv": "Sjöfarargatan 7",
+      "en": "Merenkulkijankatu 7"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.184685,
+        60.205482
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 123,
+    "object_type": "unit",
+    "score": 1.2862364
+  },
+  {
+    "id": 41074,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ramsaynrannan venesatama (A) (Ramsaynranta 4)",
+      "sv": "Ramsays strands småbåtshamn (A) (Ramsays strand 4)",
+      "en": "Ramsaynranta boat harbour"
+    },
+    "street_address": {
+      "fi": "Ramsaynranta 4",
+      "sv": "Ramsays strand 4",
+      "en": "Ramsaynranta 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.884083,
+        60.193653
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 124,
+    "object_type": "unit",
+    "score": 1.2612139
+  },
+  {
+    "id": 60181,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Sähköauton latauspiste, Nokkalan venesatama",
+      "sv": "Laddstation för elbil, Nokkala udd båthamn",
+      "en": "Charging station for electric vehicle, Nokkala boat harbour"
+    },
+    "street_address": {
+      "fi": "Nokkalanniemi 2",
+      "sv": "Nokkala udd 2",
+      "en": "Nokkalanniemi 2"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.753443,
+        60.148132
+      ]
+    },
+    "department": {
+      "id": "6c92d0db-4ee8-414c-9527-b2cf2704739b",
+      "name": {
+        "fi": "Tekninen ja ympäristötoimi, Espoo",
+        "sv": "Teknik- och miljösektorn, Esbo",
+        "en": "Environment and Technical Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 125,
+    "object_type": "unit",
+    "score": 1.23409
+  },
+  {
+    "name": {
+      "fi": "venesatamat",
+      "sv": "båthamnar",
+      "en": "marinas"
+    },
+    "id": 769,
+    "period_enabled": false,
+    "clarification_enabled": false,
+    "keywords": {},
+    "root_service_node": 1402,
+    "unit_count": {
+      "municipality": {
+        "kauniainen": 1,
+        "espoo": 36,
+        "helsinki": 147,
+        "sipoo": 2,
+        "inkoo": 1,
+        "kirkkonummi": 1
+      },
+      "total": 188
+    },
+    "sort_index": 126,
+    "object_type": "service",
+    "score": 0.866414
+  },
+  {
+    "id": 57150,
+    "contract_type": null,
+    "name": {
+      "fi": "Isosaaren vierasvenesatama",
+      "sv": "Mjölös småbåtshamn"
+    },
+    "street_address": {
+      "fi": "Isosaari",
+      "sv": "Mjölö",
+      "en": "Isosaari"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.061657,
+        60.105354
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 128,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 46069,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kalkkihiekanlaituri / Vesiliikennelaituri",
+      "sv": "Kalksandskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Kalkkihiekantori 4",
+      "sv": "Kalksandstorget 4",
+      "en": "Kalkkihiekantori 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.14073,
+        60.199055
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 129,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 46038,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kuninkaanportinlaituri / Vesiliikennelaituri",
+      "sv": "Kungsportsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Suomenlinna A 12",
+      "sv": "Sveaborg A 12",
+      "en": "Suomenlinna A 12"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.989958,
+        60.13996
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 130,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 46040,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Linnanlaituri / Vesiliikennelaituri",
+      "sv": "Slottskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Linnanlaituri 1",
+      "sv": "Slottskajen 1",
+      "en": "Linnanlaituri 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.956459,
+        60.167545
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 131,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 46064,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Malkasaarenlaituri / Vesiliikennelaituri",
+      "sv": "Takvedaholmsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Malkasaari 1",
+      "sv": "Takvedaholmen 1",
+      "en": "Malkasaari 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.119186,
+        60.18649
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 132,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 45996,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pikkuniemenlaituri / Vesiliikennelaituri",
+      "sv": "Lillnäskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Pikkuniementie 4",
+      "sv": "Lillnäsvägen 4",
+      "en": "Pikkuniementie 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.874258,
+        60.187702
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 133,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 46033,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pyysaarenlaituri / Vesiliikennelaituri",
+      "sv": "Järpholmsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Henrik Brgströmin polku 3",
+      "sv": "Henrik Brgströmin polku 3",
+      "en": "Henrik Brgströmin polku 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.023441,
+        60.180138
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 134,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 50553,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Stora Herrö / Saaristovenelaituri",
+      "sv": "Stora Herrö / Skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Stora Herrö",
+      "sv": "Stora Herrö",
+      "en": "Stora Herrö"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.663925,
+        60.08763
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 135,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 54377,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Stora Herrö / Vierasvenelaituri",
+      "sv": "Stora Herrö / Gästsmåbåtshamn"
+    },
+    "street_address": {
+      "fi": "Stora Herrö",
+      "sv": "Stora Herrö",
+      "en": "Stora Herrö"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.667356,
+        60.089714
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 136,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 42050,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ursininlaituri / Vesiliikennelaituri",
+      "sv": "Ursinskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Merisatamanranta 10",
+      "sv": "Havsstranden 10",
+      "en": "Merisatamanranta 10"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.941921,
+        60.153587
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 137,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 45991,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Uunisaarenlaituri / Vesiliikennelaituri",
+      "sv": "Ugnsholmsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Pohjoinen Uunisaari 1",
+      "sv": "Norra Ugnsholmen 1",
+      "en": "Pohjoinen Uunisaari 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.952263,
+        60.153584
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 138,
+    "object_type": "unit",
+    "score": 0.2645577
+  },
+  {
+    "id": 46039,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Aleksanterinlaituri / Vesiliikennelaituri",
+      "sv": "Alexanderskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Pohjoisranta 1",
+      "sv": "Norra kajen 1",
+      "en": "Pohjoisranta 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.95989,
+        60.16976
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 139,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 39748,
+    "contract_type": null,
+    "name": {
+      "fi": "Espoon Amiraalinsatama",
+      "sv": "Esbos Amiralhamnen"
+    },
+    "street_address": {
+      "fi": "Amiraalinsatama 5",
+      "sv": "Amiralshamnen 5",
+      "en": "Amiraalinsatama 5"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.68168,
+        60.11595
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 140,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 46034,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Halkolaituri / Vesiliikennelaituri",
+      "sv": "Vedkajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Pohjoisranta 5",
+      "sv": "Norra kajen 5",
+      "en": "Pohjoisranta 5"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.961739,
+        60.17106
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 141,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 54373,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Iso Vasikkasaari / Vierasvenelaituri (etelä)",
+      "sv": "Stora Kalvholmen / Småbåtshamn (söder)"
+    },
+    "street_address": {
+      "fi": "Iso Vasikkasaari",
+      "sv": "Iso Vasikkasaari",
+      "en": "Iso Vasikkasaari"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.757952,
+        60.136963
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 142,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 42075,
+    "contract_type": null,
+    "name": {
+      "fi": "Katajanokan vierasvenesatama",
+      "sv": "Skatuddens gästhamn"
+    },
+    "street_address": {
+      "fi": "Kanavaranta 4",
+      "sv": "Kanalkajen 4",
+      "en": "Kanavaranta 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.96347,
+        60.16929
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 143,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 60200,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kaupunkisoutuveneet"
+    },
+    "street_address": {
+      "fi": "Lindstedtintie 1",
+      "sv": "Lindstedtsvägen 1",
+      "en": "Lindstedtintie 1"
+    },
+    "municipality": "kauniainen",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.735405,
+        60.22098
+      ]
+    },
+    "department": {
+      "id": "2cd6c260-07cc-43df-bc36-a737338ddda0",
+      "name": {
+        "fi": "Kulttuuri- ja vapaa-aika, Kauniainen",
+        "sv": "Kultur- och fritid, Grankulla",
+        "en": "Kulttuuri- ja vapaa-aika, Kauniainen"
+      },
+      "street_address": {
+        "fi": "Kauniaistentie 10",
+        "sv": "Grankullavägen 10",
+        "en": "Kauniaistentie 10"
+      },
+      "municipality": "kauniainen"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 144,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 54380,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Otaniemen saaristovenelaituri",
+      "sv": "Otnäs skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Otaranta 8",
+      "sv": "Otstranden 8",
+      "en": "Otaranta 8"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.8381,
+        60.185688
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 146,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 57428,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pentalan saaristovenelaituri",
+      "sv": "Pentalas skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Pentala 44",
+      "sv": "Pentala 44",
+      "en": "Pentala 44"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.67439,
+        60.107037
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 147,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 45997,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Seurasaarenlaituri / Vesiliikennelaituri",
+      "sv": "Fölisöbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Seurasaarentie",
+      "sv": "Fölisövägen",
+      "en": "Seurasaarentie"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.8804,
+        60.18029
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 148,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 45992,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Sillilaituri / Vesiliikennelaituri",
+      "sv": "Silkajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Hietalahdenlaituri 1",
+      "sv": "Sandvikspiren 1",
+      "en": "Hietalahdenlaituri 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.925068,
+        60.160843
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 149,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 41786,
+    "contract_type": null,
+    "name": {
+      "fi": "Suomenlinnan vierasvenesatama (Varvilahti)",
+      "sv": "Sveaborgs gästsmåbåthamn (Varvsviken)"
+    },
+    "street_address": {
+      "fi": "Suomenlinnan Varvilahti",
+      "sv": "Suomenlinnan Varvilahti",
+      "en": "Suomenlinnan Varvilahti"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.98228,
+        60.14624
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 150,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 46041,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Suomenlinnankeskuksenlaituri / Vesiliikennelaituri",
+      "sv": "Sveaborgscentretsbrygga / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Suomenlinnan C 74",
+      "sv": "Suomenlinnan C 74",
+      "en": "Suomenlinnan C 74"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.98768,
+        60.14511
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 151,
+    "object_type": "unit",
+    "score": 0.25773865
+  },
+  {
+    "id": 46037,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Harakanlaituri / Vesiliikennelaituri",
+      "sv": "Stora Räntans brygga / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Harakka 1",
+      "sv": "Stora Räntan 1",
+      "en": "Harakka 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.957767,
+        60.15199
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 152,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 46068,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Hiekkalaituri / Vesiliikennelaituri",
+      "sv": "Sandkajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Hiekkalaituri 1",
+      "sv": "Sandkajen 1",
+      "en": "Hiekkalaituri 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.146418,
+        60.199924
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 153,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 50571,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Iso Vasikkasaari / Saaristovenelaituri",
+      "sv": "Stora Kalvholmen / Skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Iso Vasikkasaari",
+      "sv": "Iso Vasikkasaari",
+      "en": "Iso Vasikkasaari"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.761837,
+        60.14312
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 154,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 57142,
+    "contract_type": null,
+    "name": {
+      "fi": "Luotsinpihanlaituri / Vesiliikennelaituri",
+      "sv": "Skanslandetsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Vallisaari",
+      "sv": "Skanslandet",
+      "en": "Vallisaari"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.006727,
+        60.140224
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 157,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 46032,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Mustikkamaansalmenlaituri / Vesiliikennelaituri",
+      "sv": "Blåbärssundsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Mustikkamaanpolku 4",
+      "sv": "Blåbärslandsstigen 4",
+      "en": "Mustikkamaanpolku 4"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.990719,
+        60.178238
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 158,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 39549,
+    "contract_type": null,
+    "name": {
+      "fi": "Newport Keilalahti",
+      "sv": "Newport Kägelviken"
+    },
+    "street_address": {
+      "fi": "Keilasatama 5",
+      "sv": "Kägelhamnen 5",
+      "en": "Keilasatama 5"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.830687,
+        60.17229
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 159,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 40313,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Rajasaaren talvisäilytysalue",
+      "sv": "Område för vinteruppläggning på Råholmen"
+    },
+    "street_address": {
+      "fi": "Rajasaarenpenger 12",
+      "sv": "Råholmsbanken 12",
+      "en": "Rajasaarenpenger 12"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.90314,
+        60.181396
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 160,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 54376,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Suinonsalmen saaristovenelaituri",
+      "sv": "Svinösunds skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Suvisaarentie 8",
+      "sv": "Sommarövägen 8",
+      "en": "Suvisaarentie 8"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.696283,
+        60.128235
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 161,
+    "object_type": "unit",
+    "score": 0.25413242
+  },
+  {
+    "id": 46067,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Aurinkolahdenlaituri / Vesiliikennelaituri",
+      "sv": "Solvikskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Aurinkoranta 7",
+      "sv": "Solstranden 7",
+      "en": "Aurinkoranta 7"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.151459,
+        60.200768
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 162,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 50239,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Gåsgrund / Saaristovenelaituri",
+      "sv": "Gåsgrund / Skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Gåsgrund",
+      "sv": "Gåsgrund",
+      "en": "Gåsgrund"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.753956,
+        60.095444
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 163,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 57312,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Iso Vasikkasaari / Vierasvenelaituri 1 (pohjoinen)",
+      "sv": "Stora Kalvholmen / Småbåtshamn 1 (nord)"
+    },
+    "street_address": {
+      "fi": "Iso Vasikkasaari",
+      "sv": "Iso Vasikkasaari",
+      "en": "Iso Vasikkasaari"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.762585,
+        60.14271
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 164,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 46031,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Keisarinluodonlaituri / Vesiliikennelaituri",
+      "sv": "Kejsargrundskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Keisarinluodonlaituri 1",
+      "sv": "Kejsargrundskajen 1",
+      "en": "Keisarinluodonlaituri 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.955027,
+        60.16709
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 165,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 46062,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kotiluodonlaituri / Vesiliikennelaituri",
+      "sv": "Hemholmsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Kotiluoto",
+      "sv": "Hemholmen",
+      "en": "Kotiluoto"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.10258,
+        60.175503
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 166,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 50575,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Käärmesaari / Vierasvenelaituri",
+      "sv": "Ormholm / Gästsmåbåtshamn"
+    },
+    "street_address": {
+      "fi": "Käärmesaari",
+      "sv": "Käärmesaari",
+      "en": "Käärmesaari"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.833935,
+        60.142963
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 167,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 46036,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Laivalahdenlaituri / Vesiliikennelaituri",
+      "sv": "Båtsvikskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Reginankuja 1",
+      "sv": "Reginagränden 1",
+      "en": "Reginankuja 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.029953,
+        60.187016
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 168,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 40449,
+    "contract_type": null,
+    "name": {
+      "fi": "Liuskasaaren vierasvenesatama (HSS)",
+      "sv": "Skifferholmens Småbåtshamn (HSS)"
+    },
+    "street_address": {
+      "fi": "Liuskasaari",
+      "sv": "Skifferholmen",
+      "en": "Liuskasaari"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.948694,
+        60.15158
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 169,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 54368,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Matinkylän saaristovenelaituri",
+      "sv": "Mattbys skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Nokkalanniemi 2",
+      "sv": "Nokkala udd 2",
+      "en": "Nokkalanniemi 2"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.7554,
+        60.14824
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 170,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 40160,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Meritorinlaituri / Vesiliikennelaituri",
+      "sv": "Havstorgskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Merisatamanranta 8",
+      "sv": "Havsstranden 8",
+      "en": "Merisatamanranta 8"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.95058,
+        60.15514
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 171,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 50397,
+    "contract_type": null,
+    "name": {
+      "fi": "Newport Kalanokka",
+      "sv": "Newport Kalanokka"
+    },
+    "street_address": {
+      "fi": "Kalanokankuja 2",
+      "sv": "Kalanokkagränden 2",
+      "en": "Kalanokankuja 2"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.836874,
+        60.177998
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 172,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 45999,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pihlajasaarenlaituri / Vesiliikennelaituri",
+      "sv": "Rönnskärsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Läntinen Pihlajansaari 1",
+      "sv": "Läntinen Pihlajansaari 1",
+      "en": "Läntinen Pihlajansaari 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.91617,
+        60.14025
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 173,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 54370,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ristiniemen saaristovenelaituri",
+      "sv": "Korsnäs skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Ristiniementie 19",
+      "sv": "Korsnäsvägen 19",
+      "en": "Ristiniementie 19"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.64364,
+        60.137215
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 174,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 54382,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Rövaren / Saaristovenelaituri",
+      "sv": "Rövaren / Skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Rövaren",
+      "sv": "Rövaren",
+      "en": "Rövaren"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.682676,
+        60.08567
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 175,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 46029,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ullanlinnanlaituri / Vesiliikennelaituri",
+      "sv": "Ulrikasborgsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Ehrenströmintie 3",
+      "sv": "Ehrenströmsvägen 3",
+      "en": "Ehrenströmintie 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.95983,
+        60.154762
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 176,
+    "object_type": "unit",
+    "score": 0.25219712
+  },
+  {
+    "id": 46030,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Hakaniemenlaituri / Vesiliikennelaituri",
+      "sv": "Hagnäsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Hakaniemenranta 3",
+      "sv": "Hagnäskajen 3",
+      "en": "Hakaniemenranta 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.954596,
+        60.17781
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 177,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 45993,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Hernesaarenlaituri / Vesiliikennelaituri",
+      "sv": "Ärtholmskajen / Kajen för vattebledstrafiken"
+    },
+    "street_address": {
+      "fi": "Hernesaarenranta 6",
+      "sv": "Ärtholmsstranden 6",
+      "en": "Hernesaarenranta 6"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.926971,
+        60.14835
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 178,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 57380,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Iso Vasikkasaari / Vierasvenelaituri 2 (pohjoinen)",
+      "sv": "Stora Kalvholmen / Småbåtshamn 2 (nord)"
+    },
+    "street_address": {
+      "fi": "Iso Vasikkasaari",
+      "sv": "Iso Vasikkasaari",
+      "en": "Iso Vasikkasaari"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.762232,
+        60.142876
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 179,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 46035,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kolera-altaanlaituri / Vesiliikennelaituri",
+      "sv": "Kolerabassänskajen / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Eteläranta 13",
+      "sv": "Södra kajen 13",
+      "en": "Eteläranta 13"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.952648,
+        60.1671
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 180,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 41174,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Merisatamanlaituri / Vesiliikennelaituri",
+      "sv": "Havshamnsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Merisatamanranta 8",
+      "sv": "Havsstranden 8",
+      "en": "Merisatamanranta 8"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.946365,
+        60.154545
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 181,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 40866,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Mustasaari / Vierasvenelaituri",
+      "sv": "Svartholmen / Gästsmåbåthamn"
+    },
+    "street_address": {
+      "fi": "Saarihuhdanpolku",
+      "sv": "Holmfallsspången",
+      "en": "Saarihuhdanpolku"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.869616,
+        60.173603
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 182,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 40859,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pihlajasaaren vierasvenesatama"
+    },
+    "street_address": {
+      "fi": "Läntinen Pihlajasaari",
+      "sv": "Västerrönnskär",
+      "en": "Läntinen Pihlajasaari"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.917618,
+        60.13987
+      ]
+    },
+    "department": {
+      "id": "5e63bf12-7a0c-4e06-9f1e-d80167c2447b",
+      "name": {
+        "fi": "Läntinen veneilytiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 183,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 46028,
+    "contract_type": null,
+    "name": {
+      "fi": "Solvallan soutu- ja melontakeskus",
+      "sv": "Solvallas rodd- och paddlingcenter"
+    },
+    "street_address": {
+      "fi": "Nuuksiontie 82",
+      "sv": "Nouxvägen 82",
+      "en": "Nuuksiontie 82"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.555769,
+        60.29261
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 184,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 54374,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Soukan saaristovenelaituri",
+      "sv": "Sökös skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Soukanlahdentie 15",
+      "sv": "Sököviksvägen 15",
+      "en": "Soukanlahdentie 15"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.64808,
+        60.13506
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 185,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 54379,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Suomenojan saaristovenelaituri",
+      "sv": "Finnoos skärgårdsbåtbrygga"
+    },
+    "street_address": {
+      "fi": "Hylkeenpyytäjäntie 9",
+      "sv": "Säljägarvägen 9",
+      "en": "Hylkeenpyytäjäntie 9"
+    },
+    "municipality": "espoo",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.719975,
+        60.14572
+      ]
+    },
+    "department": {
+      "id": "d8dab34f-a68f-4244-b906-84e7f651b8e1",
+      "name": {
+        "fi": "Sivistystoimi, Espoo",
+        "sv": "Bildningssektorn, Esbo",
+        "en": "Education and Cultural Services, Espoo"
+      },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 186,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 45998,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Taivalsaarenlaituri / Vesiliikennelaituri",
+      "sv": "Edesholmsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Hiekkarannantie 3",
+      "sv": "Sandstrandsvägen 3",
+      "en": "Hiekkarannantie 3"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.90974,
+        60.176285
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 187,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 42071,
+    "contract_type": null,
+    "name": {
+      "fi": "Valkosaaren vierasvenesatama (NJK)",
+      "sv": "Blekholmens Småbåtshamn (NJK)"
+    },
+    "street_address": {
+      "fi": "Valkosaari",
+      "sv": "Blekholmen",
+      "en": "Valkosaari"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.964687,
+        60.160988
+      ]
+    },
+    "department": {
+      "id": "48fce9f4-8328-487f-8d6f-cb6a6a85877d",
+      "name": {
+        "fi": "Jyväskylän yliopisto, LIPAS Liikuntapaikat.fi",
+        "sv": "Jyväskylä universitet, LIPAS Liikuntapaikat.fi",
+        "en": "University of Jyväskylä, LIPAS Liikuntapaikat.fi"
+      },
+      "street_address": null,
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 188,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 46042,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Valkosaarenlaituri / Vesiliikennelaituri",
+      "sv": "Blekholmsbryggan / Kajen för vattenledstrafiken"
+    },
+    "street_address": {
+      "fi": "Valkosaari 1",
+      "sv": "Blekholmen 1",
+      "en": "Valkosaari 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        24.963524,
+        60.161438
+      ]
+    },
+    "department": {
+      "id": "b7517181-f645-481d-801d-87b184bb111b",
+      "name": {
+        "fi": "Muu merellinen toimintatiimi"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 189,
+    "object_type": "unit",
+    "score": 0.24905208
+  },
+  {
+    "id": 57190,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pursilahden allas (Pursilahdenranta 1)",
+      "sv": "Slupviksstrandens bassängen (Slupviksstranden)"
+    },
+    "street_address": {
+      "fi": "Pursilahdenranta 1",
+      "sv": "Slupviksstranden 1",
+      "en": "Pursilahdenranta 1"
+    },
+    "municipality": "helsinki",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        25.14632,
+        60.20071
+      ]
+    },
+    "department": {
+      "id": "8bdb8e14-b243-4a1d-b162-ad7b778c3e66",
+      "name": {
+        "fi": "Liikunta",
+        "sv": "Idrott",
+        "en": "Sports"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 190,
+    "object_type": "unit",
+    "score": 0.22607234
+  }
+]
+}
